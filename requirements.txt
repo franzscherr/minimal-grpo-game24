@@ -1,0 +1,6 @@
+vllm
+transformers
+peft
+datasets
+math_verify
+neptune
